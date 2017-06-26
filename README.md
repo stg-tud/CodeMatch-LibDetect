@@ -3,6 +3,7 @@ LibDetect identifies libraries in Android apps (APK) on the class level and prov
 of the class under analysis and a reference class stored in LibDetect's database.
 
 ## Precondition
+checkout and compile OPAL develop branch (http://www.opal-project.de/)<br>
 install OpenSSL (https://www.openssl.org/)<br>
 install enjarify (https://github.com/google/enjarify)<br>
 install MySQL (https://www.mysql.com/de/downloads/)<br>
