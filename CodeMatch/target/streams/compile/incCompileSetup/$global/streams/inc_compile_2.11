@@ -1,0 +1,1074 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+49 items
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\BitwiseAnalyser$OUTPUT.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\BitwiseAnalyser$PROCESS.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\BitwiseAnalyser.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\Entropy.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\FuzzyHash.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\LCS.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\LCS.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SimHash$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SimHash$Hashing.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SimHash.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SSDeep$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SSDeep$roll_state_class.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SSDeep$ss_context.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SSDeep.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\StreamReader.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\XORShiftRandom.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses$$anon$1$$anonfun$doAnalyze$1$$anonfun$apply$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses$$anon$1$$anonfun$doAnalyze$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses$$anon$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses$.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\MethodData.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$3.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$4.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$5$$anonfun$apply$6.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$5.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$7.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$extract$methods$SHA1Extractor$$anon$$isObfuscated$1$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$checkAnalysisSpecificParameters$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$checkAnalysisSpecificParameters$2.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractAbstracts$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractInterfaceIR$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractInterfaceIR$2.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractNlr$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractOriginal$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractParamTypes$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$getInstructionCount$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$getMethodLoC$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$obfusConfig$1.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\main\CountMain$.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\main\CountMain.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\main\ExtractionExecuter$.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\main\ExtractionExecuter.class
+binary dependencies:
+29 items
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> C:\Users\Admin\git\CodeMatch\LibDetect\lib\commons-lang3-3.4.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\LCS.java -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> C:\Users\Admin\git\CodeMatch\LibDetect\lib\commons-lang3-3.4.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\bytecode-representation_2.11\0.9.0-SNAPSHOT\jars\bytecode-representation_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\abstract-interpretation-framework_2.11\0.9.0-SNAPSHOT\jars\abstract-interpretation-framework_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\bytecode-representation_2.11\0.9.0-SNAPSHOT\jars\bytecode-representation_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\common_2.11\0.9.0-SNAPSHOT\jars\common_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\abstract-interpretation-framework_2.11\0.9.0-SNAPSHOT\jars\abstract-interpretation-framework_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\bytecode-representation_2.11\0.9.0-SNAPSHOT\jars\bytecode-representation_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\common_2.11\0.9.0-SNAPSHOT\jars\common_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses.class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\abstract-interpretation-framework_2.11\0.9.0-SNAPSHOT\jars\abstract-interpretation-framework_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\bytecode-representation_2.11\0.9.0-SNAPSHOT\jars\bytecode-representation_2.11.jar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> C:\Users\Admin\.ivy2\local\de.opal-project\common_2.11\0.9.0-SNAPSHOT\jars\common_2.11.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+18 items
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\LCS.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\LCS.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+49 items
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> eu.scape_project.bitwiser.BitwiseAnalyser
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> eu.scape_project.bitwiser.BitwiseAnalyser$OUTPUT
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> eu.scape_project.bitwiser.BitwiseAnalyser$PROCESS
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java -> eu.scape_project.bitwiser.utils.Entropy
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> eu.scape_project.bitwiser.utils.FuzzyHash
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\LCS.java -> eu.scape_project.bitwiser.utils.LCS
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> eu.scape_project.bitwiser.utils.SimHash
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> eu.scape_project.bitwiser.utils.SimHash$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> eu.scape_project.bitwiser.utils.SimHash$Hashing
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> eu.scape_project.bitwiser.utils.SSDeep
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> eu.scape_project.bitwiser.utils.SSDeep$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> eu.scape_project.bitwiser.utils.SSDeep$roll_state_class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> eu.scape_project.bitwiser.utils.SSDeep$ss_context
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java -> eu.scape_project.bitwiser.utils.StreamReader
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java -> eu.scape_project.bitwiser.utils.XORShiftRandom
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> extract.methods.CountSmallClasses
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> extract.methods.CountSmallClasses$
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> extract.methods.CountSmallClasses$$anon$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> extract.methods.CountSmallClasses$$anon$1$$anonfun$doAnalyze$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> extract.methods.CountSmallClasses$$anon$1$$anonfun$doAnalyze$1$$anonfun$apply$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.MethodData
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$4
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$5
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$5$$anonfun$apply$6
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$7
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anon$1$$anonfun$extract$methods$SHA1Extractor$$anon$$isObfuscated$1$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$checkAnalysisSpecificParameters$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$checkAnalysisSpecificParameters$2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$extractAbstracts$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$extractInterfaceIR$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$extractInterfaceIR$2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$extractNlr$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$extractOriginal$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$extractParamTypes$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$getInstructionCount$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$getMethodLoC$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract.methods.SHA1Extractor$$anonfun$obfusConfig$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> main.CountMain
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> main.CountMain$
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> main.ExtractionExecuter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> main.ExtractionExecuter$
+used names:
+744 items
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> $anon
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> &&
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> +
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> <init>
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> ==
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> >
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> AnalysisExecutor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> BasicReport
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> Boolean
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> CountSmallClasses
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> Function0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> OneStepAnalysis
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> Predef
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> Project
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> Seq
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> String
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> URL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> _root_
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> allProjectClassFiles
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> analyses
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> analysis
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> body
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> br
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> cf
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> classCount
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> classCount_=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> count
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> count_=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> extract
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> filter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> foreach
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> get
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> instructions
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> isEmpty
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> methods
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> net
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> opalj
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> org
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> package
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> refArrayOps
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> scala
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> size
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> theProject
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> unary_!
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> x
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> !=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> $anon
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> &&
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> *
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> +
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> +=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ->
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> /
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> <
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> <init>
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ==
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> >
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> >=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> A1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> AALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> AASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ACONST_NULL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ALOAD_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ALOAD_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ALOAD_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ALOAD_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ANEWARRAY
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ARETURN
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ARRAYLENGTH
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ASTORE_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ASTORE_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ASTORE_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ASTORE_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ATHROW
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> AnalysisExecutor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> AnalysisModes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Any
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> AnyRef
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Array
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> B1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> BALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> BASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> BIPUSH
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> BaseFieldValuesAnalysisDomain
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> BasicReport
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> BigInteger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Boolean
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> BufferedReader
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> BufferedWriter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Byte
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ByteArrayOutputStream
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> CALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> CASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> CHECKCAST
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ClassFile
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ClassTag
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Code
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ConsoleOPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ControlThrowable
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> D2F
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> D2I
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> D2L
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DADD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DCMPG
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DCMPL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DCONST_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DCONST_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DDIV
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DLOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DLOAD_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DLOAD_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DLOAD_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DLOAD_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DMUL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DNEG
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DREM
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DRETURN
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DSTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DSTORE_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DSTORE_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DSTORE_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DSTORE_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DSUB
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DUP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DUP2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DUP2_X1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DUP2_X2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DUP_X1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DUP_X2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Double
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> DriverManager
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Error
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> F2D
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> F2I
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> F2L
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FADD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FCMPG
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FCMPL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FCONST_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FCONST_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FCONST_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FDIV
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FLOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FLOAD_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FLOAD_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FLOAD_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FLOAD_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FMUL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FNEG
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FREM
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FRETURN
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FSTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FSTORE_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FSTORE_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FSTORE_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FSTORE_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FSUB
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FieldType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> File
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FileInputStream
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FileWriter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Files
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Function0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Function1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> FuzzyHash
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> GETFIELD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> GETSTATIC
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> GOTO
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> GOTO_W
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> GlobalLogContext
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> HashMap
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> HashSet
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> I2B
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> I2C
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> I2D
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> I2F
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> I2L
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> I2S
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IADD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IAND
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ICONST_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ICONST_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ICONST_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ICONST_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ICONST_4
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ICONST_5
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ICONST_M1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IDIV
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IFGE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IFGT
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IFLE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IFLT
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IFNE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IFNONNULL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IFNULL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IF_ACMPEQ
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IF_ACMPNE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IF_ICMPEQ
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IF_ICMPGE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IF_ICMPGT
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IF_ICMPLE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IF_ICMPLT
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IF_ICMPNE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IINC
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ILOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ILOAD_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ILOAD_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ILOAD_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ILOAD_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IMUL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> INEG
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> INSTANCEOF
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> INVOKEINTERFACE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> INVOKESPECIAL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> INVOKESTATIC
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> INVOKEVIRTUAL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IOR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IREM
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IRETURN
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ISHL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ISHR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ISTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ISTORE_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ISTORE_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ISTORE_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ISTORE_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ISUB
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IUSHR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IXOR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IndexedSeq
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> InputStreamReader
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Int
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> IntIsIntegral
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Iterable
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> JSR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> JSR_W
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> L2D
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> L2F
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> L2I
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LADD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LAND
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LCMP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LCONST_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LCONST_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LDC
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LDC2_W
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LDC_W
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LDIV
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LLOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LLOAD_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LLOAD_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LLOAD_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LLOAD_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LMUL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LNEG
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LOOKUPSWITCH
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LOR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LREM
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LRETURN
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LSHL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LSHR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LSTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LSTORE_0
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LSTORE_1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LSTORE_2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LSTORE_3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LSUB
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LUSHR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LXOR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ListBuffer
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LogContext
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LogContextProvider
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> LogMessage
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Long
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> METHOD_LENGTH_THRESHOLD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> MONITORENTER
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> MONITOREXIT
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> MULTIANEWARRAY
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Map
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> MessageDigest
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Method
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> MethodData
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> MethodWithBody
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> NEW
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> NEWARRAY
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> NOP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Nil
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Numeric
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> OPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ObjectType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> OneStepAnalysis
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Ordering
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> POP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> POP2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> PUTFIELD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> PUTSTATIC
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Paths
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Predef
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> PreparedStatement
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ProgressManagement
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Project
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Properties
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> RET
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> RETURN
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ResultSet
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> SALOAD
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> SASTORE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> SHA1Extractor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> SIPUSH
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> SSDeep
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> SWAP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Seq
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Set
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> StandardOpenOption
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> String
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> StringBuilder
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> TABLESWITCH
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Traversable
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> TreeMap
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Tuple2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> Type
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> UIDSet
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> URL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> WIDE
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ZipEntry
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ZipFile
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> _1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> _2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> _root_
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> a
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> aar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> aarFQN
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> aarP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> aarPFqn
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ai
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> allProjectClassFiles
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> allSuperinterfacetypes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> analyses
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> analysis
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> append
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> apply
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> arr
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> arrayType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> asArrayType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> asInstanceOf
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> asObjectType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> augmentString
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> bcode
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> bcodeFQN
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> bcodeP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> bcodePFqn
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> bcodeStr
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> bcodes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> bitwiser
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> body
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> br
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> branchoffset
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> byteToSHA1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> canBuildFrom
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> canBuildSetFromUIDSet
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> candidates
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> cf
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> checkAnalysisSpecificParameters
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> classHierarchy
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> classLoc
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> clazz
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> clazzLen
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> close
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> collect
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> collectWithIndex
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> collection
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> componentType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> conn
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> contains
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> control
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> count
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> createMethodData
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> declaringClass
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> descriptor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> digest
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> direction
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> domain
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> elementType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> empty
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> equals
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> eu
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> executeQuery
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> exists
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extract
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extractAbstracts
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extractInterfaceIR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extractMethodParamLibTypes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extractNlr
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extractOriginal
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extractParamTypes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> extractTypeIR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> f
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> factor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fh
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fhash1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fhash1Str
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fhash2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fhash2Str
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fieldType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> file
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> filter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> flush
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> foreach
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> format
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fqn
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fqnLib
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ft
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fuzzy
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fuzzyHashContext
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fuzzySar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fuzzySarP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> fw
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> get
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getBytes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getConnection
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getHash
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getHash2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getInstance
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getInstructionCount
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getInt
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getLong
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getMatchingFuzzyMethods
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getMatchingMethods
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getMethodLoC
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getProperty
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> getString
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> globalPkg
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> hash
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> hashCode
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> hashText
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ignore
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> immutable
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> instance
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> instructions
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> io
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> irMethod
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> isArrayType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> isEmpty
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> isInstanceOf
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> isLibraryType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> isObfuscated
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> isObjectType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> lang
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> lastIndexOf
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> length
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> load
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> log
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> logContext
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> m
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> mLen
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> map
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> matchBestPreciseMethod
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> matchedMethods
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> matches
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> matching
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> materializeClassTag
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> math
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> max
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> maxFqn
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> md
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> md1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> methodCount
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> methodDescriptor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> methodLen
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> methods
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> mixedP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> mkString
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ms
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> msig
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> msigR
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> mutable
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> n
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> name
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> nameMin
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ne
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> net
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> newSig
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> next
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> nio
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> nlr
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> nlrP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> o
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> obfusConfig
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> obj
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> objectType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> opalj
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> org
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> outputPath
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> p
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> p1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> package
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> packageName
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> parameterTypes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> parameters
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> pathToJar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> pkg
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> pkgLib
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> prepareStatement
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> projectPackages
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> props
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> ps
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> pt
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> refArrayOps
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> referenceType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> regex
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> removeModifiers
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> rep
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> replace
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> res
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> results
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> results_=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> returnType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> rs
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> sar
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> sarP
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> scala
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> scape_project
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> score
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> security
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> set
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> setBytes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> setString
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> sha1Text
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> sig
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> size
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> sorted
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> split
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> sql
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> start
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> startsWith
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> substring
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> sum
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> t
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> text
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> text2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> text3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> theProject
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> thisType
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> toDouble
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> toInt
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> toJava
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> toLong
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> toLowerCase
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> toSeq
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> toString
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> trim
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> unapply
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> unary_!
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> unchecked
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> uniqClazzes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> update
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> updateLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> util
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> utils
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> while$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> while$2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> while$3
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> withFilter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> write
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> x
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> zip
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> !=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> +
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> <init>
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> >
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> AbstractOPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> AnyRef
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Array
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> BufferedReader
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> ClassTag
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> ConsoleOPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> CountMain
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> CountSmallClasses
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Date
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Error
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> File
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> FileReader
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> FileWriter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Files
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> GlobalLogContext
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Int
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Level
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> LogContext
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> LogContextProvider
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> LogMessage
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> OPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Path
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Paths
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Predef
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> SHA1Extractor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> SimpleDateFormat
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> StandardOpenOption
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> String
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> Unit
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> ai
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> apply
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> buff
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> classCount
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> classCount_=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> close
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> count
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> count_=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> date
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> dateFormat
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> domain
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> extract
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> file
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> flush
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> format
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> fwLog
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> io
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> length
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> line
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> log
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> main
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> materializeClassTag
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> methods
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> nio
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> opalj
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> org
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> package
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> println
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> process
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> readLine
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> scala
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> sys
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> text
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> updateLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> util
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> while$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> write
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> !!
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> !=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> +
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> <init>
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> >
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> AbstractOPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> AnyRef
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Array
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> BufferedReader
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Class
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> ClassTag
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> ConsoleOPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Date
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Error
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> ExtractionExecuter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> File
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> FileReader
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> FileWriter
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Files
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> GlobalLogContext
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Int
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Level
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> LogContext
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> LogContextProvider
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> LogMessage
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> OPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Path
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Paths
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Predef
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> SHA1Extractor
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> SimpleDateFormat
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> StandardOpenOption
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> String
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Throwable
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> Unit
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> ai
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> apkPath
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> apply
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> buff
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> close
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> count
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> createTempFile
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> date
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> date1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> date2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> dateFormat
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> domain
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> e
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> exists
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> extract
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> file
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> filePath
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> findOneWriteToPath
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> flush
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> forName
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> format
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> fwLog
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> get
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> getAbsolutePath
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> getBytes
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> getMessage
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> getName
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> getParentFile
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> io
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> java
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> lang
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> length
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> line
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> log
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> logPath
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> main
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> materializeClassTag
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> methods
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> mkdirs
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> nio
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> opalj
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> org
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> outputPath
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> package
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> par
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> println
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> process
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> readLine
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> replace
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> result
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> scala
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> stringToProcess
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> sys
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> t
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> text
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> unary_!
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> updateLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> util
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> while$1
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> write
+product stamps:
+49 items
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\BitwiseAnalyser$OUTPUT.class -> lastModified(1485187603855)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\BitwiseAnalyser$PROCESS.class -> lastModified(1485187603849)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\BitwiseAnalyser.class -> lastModified(1485187603869)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\Entropy.class -> lastModified(1485187603935)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\FuzzyHash.class -> lastModified(1485187603951)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\LCS.class -> lastModified(1485187603980)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SimHash$1.class -> lastModified(1485187604087)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SimHash$Hashing.class -> lastModified(1485187604078)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SimHash.class -> lastModified(1485187604092)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SSDeep$1.class -> lastModified(1485187604033)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SSDeep$roll_state_class.class -> lastModified(1485187604029)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SSDeep$ss_context.class -> lastModified(1485187604031)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\SSDeep.class -> lastModified(1485187604051)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\StreamReader.class -> lastModified(1485187604106)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\eu\scape_project\bitwiser\utils\XORShiftRandom.class -> lastModified(1485187604116)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses$$anon$1$$anonfun$doAnalyze$1$$anonfun$apply$1.class -> lastModified(1485187602831)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses$$anon$1$$anonfun$doAnalyze$1.class -> lastModified(1485187602824)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses$$anon$1.class -> lastModified(1485187602816)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses$.class -> lastModified(1485187602806)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses.class -> lastModified(1485187602761)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\MethodData.class -> lastModified(1485187602844)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$1.class -> lastModified(1485187602901)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$1.class -> lastModified(1485187602916)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1485187602930)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$4.class -> lastModified(1485187602937)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1485187602956)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$5.class -> lastModified(1485187602948)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2$$anonfun$apply$7.class -> lastModified(1485187602963)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2$$anonfun$apply$2.class -> lastModified(1485187602924)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$doAnalyze$2.class -> lastModified(1485187602909)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1$$anonfun$extract$methods$SHA1Extractor$$anon$$isObfuscated$1$1.class -> lastModified(1485187602969)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anon$1.class -> lastModified(1485187602895)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$checkAnalysisSpecificParameters$1.class -> lastModified(1485187602972)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$checkAnalysisSpecificParameters$2.class -> lastModified(1485187602974)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractAbstracts$1.class -> lastModified(1485187603034)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractInterfaceIR$1.class -> lastModified(1485187603039)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractInterfaceIR$2.class -> lastModified(1485187603045)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractNlr$1.class -> lastModified(1485187603060)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractOriginal$1.class -> lastModified(1485187603071)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$extractParamTypes$1.class -> lastModified(1485187603077)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$getInstructionCount$1.class -> lastModified(1485187603083)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$getMethodLoC$1.class -> lastModified(1485187603088)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$$anonfun$obfusConfig$1.class -> lastModified(1485187603094)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor$.class -> lastModified(1485187602885)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\SHA1Extractor.class -> lastModified(1485187602856)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\main\CountMain$.class -> lastModified(1485187603105)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\main\CountMain.class -> lastModified(1485187603099)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\main\ExtractionExecuter$.class -> lastModified(1485187603121)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\main\ExtractionExecuter.class -> lastModified(1485187603112)
+source stamps:
+12 items
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> hash(48a70e8a9c2961dffc46791ca767392dcc25cf35)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java -> hash(01a69cd69817c32e03ff3c556b850e8e11f0234a)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> hash(3e5ef292462b7f7079ddb4a028801ddaf0453831)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\LCS.java -> hash(ede1485b940595e5dfa16aedf7ac66981ef78236)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> hash(7906508654699fc0350c068dfa0800a176835195)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> hash(ac20c6c670fa0a22d22714edc3c4e29bb47ac845)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java -> hash(57b605a0811aa8bb65ddb23f84956327172f9a45)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java -> hash(974727b52f431d2380d2316c512c379102bb0ef3)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> hash(82b3eebba6a095e88a21343b33c83ac42aed2bcb)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> hash(e7eb6fe55a96dde40c6fd9ad5ae064728105d7e0)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> hash(65e53e575c250f3ff184020ecc47778a559efc39)
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> hash(561095d6e8bd0c4c37b02e7b39d256cbf680221b)
+binary stamps:
+7 items
+C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar -> lastModified(1478076477107)
+C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\Admin\.ivy2\local\de.opal-project\abstract-interpretation-framework_2.11\0.9.0-SNAPSHOT\jars\abstract-interpretation-framework_2.11.jar -> lastModified(1485186407212)
+C:\Users\Admin\.ivy2\local\de.opal-project\bytecode-representation_2.11\0.9.0-SNAPSHOT\jars\bytecode-representation_2.11.jar -> lastModified(1485186356180)
+C:\Users\Admin\.ivy2\local\de.opal-project\common_2.11\0.9.0-SNAPSHOT\jars\common_2.11.jar -> lastModified(1485186292218)
+C:\Users\Admin\git\CodeMatch\LibDetect\lib\commons-lang3-3.4.jar -> lastModified(1463143751070)
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses.class -> lastModified(1485187602761)
+class names:
+7 items
+C:\Program Files (x86)\Java\jre1.8.0_111\lib\rt.jar -> java.lang.Object
+C:\Users\Admin\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.sys.process.ProcessImplicits
+C:\Users\Admin\.ivy2\local\de.opal-project\abstract-interpretation-framework_2.11\0.9.0-SNAPSHOT\jars\abstract-interpretation-framework_2.11.jar -> org.opalj.ai.domain.LogContextProvider
+C:\Users\Admin\.ivy2\local\de.opal-project\bytecode-representation_2.11\0.9.0-SNAPSHOT\jars\bytecode-representation_2.11.jar -> org.opalj.br.analyses.AnalysisExecutor
+C:\Users\Admin\.ivy2\local\de.opal-project\common_2.11\0.9.0-SNAPSHOT\jars\common_2.11.jar -> org.opalj.log.AbstractOPALLogger
+C:\Users\Admin\git\CodeMatch\LibDetect\lib\commons-lang3-3.4.jar -> org.apache.commons.lang3.StringUtils
+C:\Users\Admin\git\CodeMatch\LibDetect\target\scala-2.11\classes\extract\methods\CountSmallClasses.class -> extract.methods.CountSmallClasses
+internal apis:
+12 items
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDZK7khAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJdfmrl0AAZub3RpZnlzcQB+AAztRk9+dAAHV0FSTklOR3NxAH4ADFMsUVd0AARuYW1lc3EAfgAMerjpznQABHdhaXRzcQB+AAypgsegdAAHdmFsdWVPZnNxAH4ADA3Ye1Z0AAZlcXVhbHNzcQB+AAwBJfl5dAAHcHJvY2Vzc3NxAH4ADFjVdMR0ABZCaXR3aXNlQW5hbHlzZXIkT1VUUFVUc3EAfgAM2QtnB3QACURJRkZFUkVOVHNxAH4ADLX3VvN0ABFnZXREZWNsYXJpbmdDbGFzc3NxAH4ADJ1xwzx0AAckVkFMVUVTc3EAfgAMKLaHcXQABUVSUk9Sc3EAfgAM2CcuqXQACWZsaXBCaXRBdHNxAH4ADFGqEK90AARtYWluc3EAfgAMAbAcuHQACW5vdGlmeUFsbHNxAH4ADBs1yah0AApydW5Db21tYW5kc3EAfgAMnx9/SHQACWNvbXBhcmVUb3NxAH4ADIhkKyt0AAtDTURfQ09OVkVSVHNxAH4ADM0U+C10AAY8aW5pdD5zcQB+AAxlqOlPdAAHb3JkaW5hbHNxAH4ADL4EWCV0AAROT05Fc3EAfgAMdJDvHHQABFNBTUVzcQB+AAzKLRrBdAAEY29weXNxAH4ADOCa/lJ0AAZ2YWx1ZXNzcQB+AAxMg4pydAAFQ0xFQU5zcQB+AAwCFIkudAAIdG9TdHJpbmdzcQB+AAzCZM1qdAAIZ2V0Q2xhc3NzcQB+AAxa4Q6kdAAFY2xvc2VzcQB+AAx4v7gQdAAPQml0d2lzZUFuYWx5c2Vyc3EAfgAMopVPv3QAF0JpdHdpc2VBbmFseXNlciRQUk9DRVNTc3EAfgAMEiObW3QACGhhc2hDb2Rlc3EAfgAMdv01pXQACmZsaXBCeXRlQXRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAApZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci5CaXR3aXNlQW5hbHlzZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AcAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB3c3EAfgBwAXVxAH4AUgAAAABwc3EAfgBwAXVxAH4AUgAAAABwc3EAfgBwAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Aj3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkHBwc3EAfgBUcQB+AGFxAH4AY3EAfgBlcQB+AGZxAH4AaH5xAH4AaXQABk1vZHVsZXVxAH4AbQAAAAF0AAxzY2FsYS50aHJvd3NzcQB+AHABcQB+AHhwc3EAfgBwAXNxAH4AenNxAH4AcAF1cQB+AFIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFhxAH4AYXVxAH4AYgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AKJ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAFdmFsdWV0ABljbGFzcyBqYXZhLmlvLklPRXhjZXB0aW9uc3EAfgCDdAAGdGhyb3dzc3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3QABXNjYWxhcQB+AJZzcQB+AGQAcQB+AClxAH4AaHNxAH4Ag3QABFVuaXRzcQB+AIdzcQB+AIp1cQB+AI0AAAACc3EAfgCPdAAFc2NhbGFxAH4AlnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGp0AAVQbGFpbnQAAHNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AdnNxAH4Ag3QABUFycmF5c3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3QABXNjYWxhcQB+AJZ1cQB+AIEAAAABc3EAfgCDdAAGU3RyaW5nc3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3QABGphdmFzcQB+AI90AARsYW5ncQB+AJZwc3EAfgBwAXVxAH4AUgAAAABwc3EAfgBwAXVxAH4AgQAAAABwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGWV1LnNjYXBlX3Byb2plY3QuYml0d2lzZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnMFDLTdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQEM6XFVzZXJzXEFkbWluXGdpdFxDb2RlTWF0Y2hcTGliRGV0ZWN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRIpw6KnClh3/xGeRynZzktzCXPNQ==
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDqjGC3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAM3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBvUzaR0AAVzY2N0M3NxAH4ADOPpNrl0AAdzY2NsYXN0c3EAfgAMFOs28nQABnJ0SW5pdHNxAH4ADHR63Ih0AAZub3RpZnlzcQB+AAwlc3JldAADZW50c3EAfgAMDFdX73QABXNjY3Uwc3EAfgAM1nPIUnQABHdhaXRzcQB+AAxaCtd1dAAFY2hzcXRzcQB+AAyLYLCMdAAGbW9udGV5c3EAfgAME8ki1XQACmlzSVNPdXBwZXJzcQB+AAyEgQyFdAAHRW50cm9weXNxAH4ADITtV6p0AA5tYWtlUmFuZG9tRmlsZXNxAH4ADPLjTdh0AAZiaW5hcnlzcQB+AAzmjxN+dAAGZXF1YWxzc3EAfgAM1jnmhnQABHByb2JzcQB+AAwc2hqNdAAFc2NjdDJzcQB+AAxpAVWXdAAFcnRFbmRzcQB+AAwy/69+dAAEbWVhbnNxAH4ADDH+rv10AAVjaGlzcXNxAH4ADIsR0sF0AAppc0lTT3NwYWNlc3EAfgAM79UT+3QABmluY2lyY3NxAH4ADOnveLJ0AARtYWluc3EAfgAMEKtWeXQACW5vdGlmeUFsbHNxAH4ADMMWTjV0AAdtb250ZXBpc3EAfgAMdR4JkHQABXNjY3Qxc3EAfgAM/1a8kHQAAm1wc3EAfgAMRjHPb3QABmNjb3VudHNxAH4ADHIKgh90AAtERUZBVUxUX1RNUHNxAH4ADPfiXQZ0AAY8aW5pdD5zcQB+AAyVfOVFdAAJY2FsY3VsYXRlc3EAfgAMkDIRi3QABXJ0QWRkc3EAfgAMSz7DJ3QACmlzSVNPbG93ZXJzcQB+AAySUaT3dAAGdG90YWxjc3EAfgAMHG94T3QABW1vbnRlc3EAfgAMhLn9W3QABm1jb3VudHNxAH4ADIYteB50AAVzY2N1bnNxAH4ADNQ/FNN0AAppc0lTT3ByaW50c3EAfgAM2sjMsHQACHRvU3RyaW5nc3EAfgAMMZXD5HQABmlubW9udHNxAH4ADC0TocN0AAp0b0lTT2xvd2Vyc3EAfgAMYXF2/3QABk1PTlRFTnNxAH4ADBNsrzV0AAhnZXRDbGFzc3NxAH4ADL2qX8F0AAppc0lTT2FscGhhc3EAfgAMBCnmtHQABm1vbnRleHNxAH4ADAiSTFN0AARjZXhwc3EAfgAMIuCCRHQAB2RhdGFzdW1zcQB+AAyAgkA/dAAGcnRMb2cyc3EAfgAM+DGx0XQAA3NjY3NxAH4ADL13XJp0AAp0b0lTT3VwcGVyc3EAfgAMvl9yzXQACHNjY2ZpcnN0c3EAfgAM5kQPz3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AfXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAJ2V1LnNjYXBlX3Byb2plY3QuYml0d2lzZXIudXRpbHMuRW50cm9weXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCWAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB9TAAJaW5oZXJpdGVkcQB+AH1MAAdwYXJlbnRzcQB+AH14cQB+AJ1zcQB+AJYBdXEAfgB4AAAAAHBzcQB+AJYBdXEAfgB4AAAAAHBzcQB+AJYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCcdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgC1dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC2cHBzcQB+AHpxAH4Ah3EAfgCJcQB+AItxAH4AjHEAfgCOfnEAfgCPdAAGTW9kdWxldXEAfgCTAAAAAXQADHNjYWxhLnRocm93c3NxAH4AlgFxAH4AnnBzcQB+AJYBc3EAfgCgc3EAfgCWAXVxAH4AeAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AfnEAfgCHdXEAfgCIAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AyHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAV2YWx1ZXQAGWNsYXNzIGphdmEuaW8uSU9FeGNlcHRpb25zcQB+AKl0AAZ0aHJvd3NzcQB+AK1zcQB+ALB1cQB+ALMAAAACc3EAfgC1dAAFc2NhbGFxAH4AvHNxAH4AigBxAH4AOXEAfgCOc3EAfgCpdAAEVW5pdHNxAH4ArXNxAH4AsHVxAH4AswAAAAJzcQB+ALV0AAVzY2FsYXEAfgC8dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AyHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AkHQABVBsYWludAAAc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCqWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCcc3EAfgCpdAAFQXJyYXlzcQB+AK1zcQB+ALB1cQB+ALMAAAACc3EAfgC1dAAFc2NhbGFxAH4AvHVxAH4ApwAAAAFzcQB+AKl0AAZTdHJpbmdzcQB+AK1zcQB+ALB1cQB+ALMAAAADc3EAfgC1dAAEamF2YXNxAH4AtXQABGxhbmdxAH4AvHBzcQB+AJYBdXEAfgB4AAAAAHBzcQB+AJYBdXEAfgCnAAAAAHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAfZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci51dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcQWRtaW5cZ2l0XENvZGVNYXRjaFxMaWJEZXRlY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAGmnNaYF8MuA/88VWuFDo4R8CNK
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHANzDcLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFBBKS10AAZub3RpZnlzcQB+AAwTTYA5dAAEd2FpdHNxAH4ADJg6YmV0AApmcm9tU3RyaW5nc3EAfgAMUHvme3QABmVxdWFsc3NxAH4ADF7VWW90AAVoYXNoMnNxAH4ADEj2zgh0AAlGdXp6eUhhc2hzcQB+AAzdaoNSdAAFY2xlYW5zcQB+AAybfU7OdAAJYmxvY2tzaXplc3EAfgAMYJaJvXQACGdldEhhc2gyc3EAfgAMW1W3R3QACW5vdGlmeUFsbHNxAH4ADGD9KFZ0AAdnZXRIYXNoc3EAfgAM9981JXQAC2dldEZpbGVuYW1lc3EAfgAMMqIDH3QABGhhc2hzcQB+AAzUVGjWdAAGPGluaXQ+c3EAfgAMP7coWnQACGZpbGVuYW1lc3EAfgAM3MoQOHQACHRvU3RyaW5nc3EAfgAMjsgWUnQADGdldEJsb2Nrc2l6ZXNxAH4ADDeaZr90AAhnZXRDbGFzc3NxAH4ADFsqwsF0AAdjb21wYXJlc3EAfgAM/wtsXnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AP3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAKWV1LnNjYXBlX3Byb2plY3QuYml0d2lzZXIudXRpbHMuRnV6enlIYXNodXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFgBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AD9MAAlpbmhlcml0ZWRxAH4AP0wAB3BhcmVudHNxAH4AP3hxAH4AX3NxAH4AWAF1cQB+ADoAAAAAcHNxAH4AWAF1cQB+ADoAAAAAcHNxAH4AWAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF50AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHd0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHhwcHNxAH4APHEAfgBJcQB+AEtxAH4ATXEAfgBOcQB+AFB+cQB+AFF0AAZNb2R1bGV1cQB+AFUAAAAAc3EAfgBYAXEAfgBgcHNxAH4AWAFzcQB+AGJzcQB+AFgBdXEAfgA6AAAAAHBzcQB+AFgBdXEAfgA6AAAAAHBzcQB+AFgBdXEAfgBpAAAAAHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAfZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci51dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcQWRtaW5cZ2l0XENvZGVNYXRjaFxMaWJEZXRlY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD5e8pJGK39wed20oCiAHdrwRTgx
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\LCS.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAspODCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMA0OyV0AAZub3RpZnlzcQB+AAx6kaeDdAAEd2FpdHNxAH4ADLMBIeZ0ABMkYXNzZXJ0aW9uc0Rpc2FibGVkc3EAfgAMIUQn7XQABmVxdWFsc3NxAH4ADJmSuHx0AARtYWluc3EAfgAMAR0bnHQACW5vdGlmeUFsbHNxAH4ADO+erR50AAY8aW5pdD5zcQB+AAwNw0c3dAAIdG9TdHJpbmdzcQB+AAy4MpRkdAADTENTc3EAfgAMN+LMM3QACGdldENsYXNzc3EAfgAMPHoQlnQACGhhc2hDb2Rlc3EAfgAMFgdW4nQAA2xjc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AC94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACNldS5zY2FwZV9wcm9qZWN0LmJpdHdpc2VyLnV0aWxzLkxDU3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBIAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAvTAAJaW5oZXJpdGVkcQB+AC9MAAdwYXJlbnRzcQB+AC94cQB+AE9zcQB+AEgBdXEAfgAqAAAAAHBzcQB+AEgBdXEAfgAqAAAAAHBzcQB+AEgBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBOdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBndAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBocHBzcQB+ACxxAH4AOXEAfgA7cQB+AD1xAH4APnEAfgBAfnEAfgBBdAAGTW9kdWxldXEAfgBFAAAAAHNxAH4ASAFxAH4AUHBzcQB+AEgBc3EAfgBSc3EAfgBIAXVxAH4AKgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AMHEAfgA5dXEAfgA6AAAAAHNxAH4APABxAH4AF3EAfgBAc3EAfgBbdAAEVW5pdHNxAH4AX3NxAH4AYnVxAH4AZQAAAAJzcQB+AGd0AAVzY2FsYXEAfgBudXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AeXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AQnQABVBsYWludAAAc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBcWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBOc3EAfgBbdAAFQXJyYXlzcQB+AF9zcQB+AGJ1cQB+AGUAAAACc3EAfgBndAAFc2NhbGFxAH4AbnVxAH4AWQAAAAFzcQB+AFt0AAZTdHJpbmdzcQB+AF9zcQB+AGJ1cQB+AGUAAAADc3EAfgBndAAEamF2YXNxAH4AZ3QABGxhbmdxAH4AbnBzcQB+AEgBdXEAfgAqAAAAAHBzcQB+AEgBdXEAfgBZAAAAAHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAfZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci51dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcQWRtaW5cZ2l0XENvZGVNYXRjaFxMaWJEZXRlY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFO3hSFuUBZXl36Fq7fesZpge94I2
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAtcKkAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAEnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFlOvq90AAZub3RpZnlzcQB+AAx1ldFsdAAEd2FpdHNxAH4ADODWzm50AAdiaXRUZXN0c3EAfgAMR6rA+3QACnNpbWlsYXJpdHlzcQB+AAxnVpUTdAAGZXF1YWxzc3EAfgAMIoHnXHQAB3NpbUhhc2hzcQB+AAxovjY6dAAFYnVpbGRzcQB+AAzzEuwHdAAHaGFzaGluZ3NxAH4ADHyUldB0AAlub3RpZnlBbGxzcQB+AAwbDkQ/dAAPU2ltSGFzaCRIYXNoaW5nc3EAfgAMpSD5gXQABjxpbml0PnNxAH4ADCIvPpF0AAphY2Nlc3MkMDAwc3EAfgAMPqDXD3QACmhhc2hpbmdEaW1zcQB+AAymooEOdAAIdG9TdHJpbmdzcQB+AAzJdlSBdAAHU2ltSGFzaHNxAH4ADL2cVX10AAhnZXRDbGFzc3NxAH4ADM13LKt0AAhkaXN0YW5jZXNxAH4ADFtPT8B0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ADt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACdldS5zY2FwZV9wcm9qZWN0LmJpdHdpc2VyLnV0aWxzLlNpbUhhc2h1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AQEwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AD1MAAp1cHBlckJvdW5kcQB+AE5MAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHBxAH4AR3QAKWV1LnNjYXBlX3Byb2plY3QuYml0d2lzZXIudXRpbHMuU2ltSGFzaCBUc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB05vdGhpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AGF1cQB+AEsAAAAAc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ADtMAAlpbmhlcml0ZWRxAH4AO0wAB3BhcmVudHNxAH4AO3hxAH4AVXNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXVxAH4ANgAAAABwcQB+AG1zcQB+AGkBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AFJ0AAZPYmplY3RzcQB+AFhzcQB+AFt1cQB+AF4AAAADc3EAfgBgdAAEamF2YXNxAH4AYHQABGxhbmdxAH4AZXB+cgASeHNidGkuYXBpLlZhcmlhbmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAJSW52YXJpYW50fnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHEAfgB8dAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3EAfgBpAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AFRwc3EAfgBpAXNxAH4AZ3NxAH4AaQF1cQB+ADYAAAAAcHNxAH4AaQF1cQB+ADYAAAAAcHNxAH4AaQF1cQB+AHAAAAABc3EAfgBSdAAGT2JqZWN0c3EAfgBYc3EAfgBbdXEAfgBeAAAAA3NxAH4AYHQABGphdmFzcQB+AGB0AARsYW5ncQB+AGVwcHNxAH4AOHEAfgBFcQB+AEdxAH4ASXEAfgBKcQB+AGZ+cQB+AH90AAZNb2R1bGV1cQB+AIIAAAAAc3EAfgBpAXEAfgCHcHNxAH4AaQFzcQB+AGdzcQB+AGkBdXEAfgA2AAAAAHBzcQB+AGkBdXEAfgA2AAAAAHBzcQB+AGkBdXEAfgBwAAAAAHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAfZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci51dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcQWRtaW5cZ2l0XENvZGVNYXRjaFxMaWJEZXRlY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHkGUIZUaZ/ANQwGjfoIAKF2g1GV
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCes8dCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCsxAdB0AAZub3RpZnlzcQB+AAws9JCSdAAJcm9sbFN0YXRlc3EAfgAM960tonQABndpbmRvd3NxAH4ADGLHvL90AAR3YWl0c3EAfgAM0/O+QHQAAmgzc3EAfgAMzszIJnQAAW5zcQB+AAyrzFDrdAADYjY0c3EAfgAMq59banQADGZ1enp5SGFzaEJ1ZnNxAH4ADNM0h290AANyZXRzcQB+AAxusvpZdAAGZXF1YWxzc3EAfgAMYl+C+HQABnNzSW5pdHNxAH4ADCKxXSJ0AAFqc3EAfgAMU4lTl3QAEWZ1enp5SGFzaEZpbGVuYW1lc3EAfgAM2nDmA3QADlJPTExJTkdfV0lORE9Xc3EAfgAM5tyR/XQABHJldDJzcQB+AAys7Y6pdAAOU1BBTVNVTV9MRU5HVEhzcQB+AAwkHhKbdAALQlVGRkVSX1NJWkVzcQB+AAx1shV+dAAIc3NVcGRhdGVzcQB+AAzZk/TsdAALdG90YWxfY2hhcnNzcQB+AAzdWpOddAASaGFzQ29tbW9uU3Vic3RyaW5nc3EAfgAM3vaBFHQACW5vdGlmeUFsbHNxAH4ADGKC4Fl0AAhzc0VuZ2luZXNxAH4ADNFb1md0AAJoMnNxAH4ADMh1YHF0AAxzY29yZVN0cmluZ3NzcQB+AAzuPWw8dAAXU1NEZWVwJHJvbGxfc3RhdGVfY2xhc3NzcQB+AAx2MNpTdAAGPGluaXQ+c3EAfgAMVKeMo3QACkhBU0hfUFJJTUVzcQB+AAy7bE2CdAARU1NEZWVwJHNzX2NvbnRleHRzcQB+AAxEwNvPdAAQZnV6enlIYXNoQ29udGV4dHNxAH4ADMHrZQZ0AAZ0aGlzJDBzcQB+AAwR6tJvdAAMZnV6enlDb21wYXJlc3EAfgAMT+92InQACmJsb2NrX3NpemVzcQB+AAxBUurydAAGU1NEZWVwc3EAfgAMFQWZAXQAAXBzcQB+AAyqC0IzdAACaDFzcQB+AAybFiepdAAIdG9TdHJpbmdzcQB+AAySfWg2dAAJSEFTSF9JTklUc3EAfgAMvZ/bmXQAEEZVWlpZX01BWF9SRVNVTFRzcQB+AAxnc+2OdAABaHNxAH4ADBT5+QR0AAhnZXRDbGFzc3NxAH4ADNpGJ0t0AAdzdW1IYXNoc3EAfgAMUTAFCHQACHJvbGxIYXNoc3EAfgAMQWO/WXQAAWtzcQB+AAxk7eDBdAANTUlOX0JMT0NLU0laRXNxAH4ADJwuril0AA1mdXp6eUhhc2hGaWxlc3EAfgAMBn6SEHQAEmVsaW1pbmF0ZVNlcXVlbmNlc3NxAH4ADKNeDst0AAlyb2xsUmVzZXRzcQB+AAwNWdZ2dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAmZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci51dGlscy5TU0RlZXB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AkAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ad0wACWluaGVyaXRlZHEAfgB3TAAHcGFyZW50c3EAfgB3eHEAfgCXc3EAfgCQAXVxAH4AcgAAAABwc3EAfgCQAXVxAH4AcgAAAABwc3EAfgCQAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AlnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AlnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ar3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AsHBwc3EAfgB0cQB+AIFxAH4Ag3EAfgCFcQB+AIZxAH4AiH5xAH4AiXQABk1vZHVsZXVxAH4AjQAAAABzcQB+AJABcQB+AJhwc3EAfgCQAXNxAH4AmnNxAH4AkAF1cQB+AHIAAAAAcHNxAH4AkAF1cQB+AHIAAAAAcHNxAH4AkAF1cQB+AKEAAAAAcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AB9ldS5zY2FwZV9wcm9qZWN0LmJpdHdpc2VyLnV0aWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZzBQy03VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEBDOlxVc2Vyc1xBZG1pblxnaXRcQ29kZU1hdGNoXExpYkRldGVjdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUrCDGxnD6CiLSJxTtw8Tim7R6yEU=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCqGHXlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAC3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCWkXRx0AAZub3RpZnlzcQB+AAxaBxWqdAACaXNzcQB+AAypcVeodAAEd2FpdHNxAH4ADO+XUnF0AAZlcXVhbHNzcQB+AAzBJlMrdAAMU3RyZWFtUmVhZGVyc3EAfgAMVQg0ynQACW5vdGlmeUFsbHNxAH4ADAHfUiZ0AAY8aW5pdD5zcQB+AAzjwy6KdAAIdG9TdHJpbmdzcQB+AAyWIq9gdAAIZ2V0Q2xhc3NzcQB+AAzJpvD6dAAEY2FsbHNxAH4ADGHyCit0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AC14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACxldS5zY2FwZV9wcm9qZWN0LmJpdHdpc2VyLnV0aWxzLlN0cmVhbVJlYWRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBGAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAtTAAJaW5oZXJpdGVkcQB+AC1MAAdwYXJlbnRzcQB+AC14cQB+AE1zcQB+AEYBdXEAfgAoAAAAAHBzcQB+AEYBdXEAfgAoAAAAAHBzcQB+AEYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBMdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBMc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBldAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBmc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBaWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBMc3EAfgBZdAAIQ2FsbGFibGVzcQB+AF1zcQB+AGB1cQB+AGMAAAAEc3EAfgBldAAEamF2YXNxAH4AZXQABHV0aWxzcQB+AGV0AApjb25jdXJyZW50cQB+AGx1cQB+AFcAAAABc3EAfgBZdAAGU3RyaW5nc3EAfgBdc3EAfgBgdXEAfgBjAAAAA3NxAH4AZXQABGphdmFzcQB+AGV0AARsYW5ncQB+AGxwcHNxAH4AKnEAfgA3cQB+ADlxAH4AO3EAfgA8cQB+AD5+cQB+AD90AAZNb2R1bGV1cQB+AEMAAAAAc3EAfgBGAXEAfgBOcHNxAH4ARgFzcQB+AFBzcQB+AEYBdXEAfgAoAAAAAHBzcQB+AEYBdXEAfgAoAAAAAHBzcQB+AEYBdXEAfgBXAAAAAHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAfZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci51dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcQWRtaW5cZ2l0XENvZGVNYXRjaFxMaWJEZXRlY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFe2BaCBGqi7Zd2yP4SVYycXL5pF
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBaC9AiAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAoExad0AAZub3RpZnlzcQB+AAxkRB0vdAAEd2FpdHNxAH4ADPLwj0t0ABBzZXJpYWxWZXJzaW9uVUlEc3EAfgAM+dsCMHQABHNlZWRzcQB+AAwCH/hVdAAGZXF1YWxzc3EAfgAMiUQ6y3QACW5leHRCeXRlc3NxAH4ADBJLaDZ0AAtuZXh0Qm9vbGVhbnNxAH4ADPOROuV0AAluZXh0RmxvYXRzcQB+AAzRSUSOdAAEaW50c3NxAH4ADPTaRCd0AAdzZXRTZWVkc3EAfgAMCmETQHQADG5leHRHYXVzc2lhbnNxAH4ADEsa0FJ0AAlub3RpZnlBbGxzcQB+AAwYvw/AdAAGPGluaXQ+c3EAfgAMrM+VMHQACG5leHRMb25nc3EAfgAMN/Kx+3QABWxvbmdzc3EAfgAMBIoRWnQACm5leHREb3VibGVzcQB+AAyW5a1qdAAEbmV4dHNxAH4ADKCAJeh0AAduZXh0SW50c3EAfgAMJEjfk3QACHRvU3RyaW5nc3EAfgAM1TLT0nQADlhPUlNoaWZ0UmFuZG9tc3EAfgAMsKOqOnQACGdldENsYXNzc3EAfgAMax6WgHQACGhhc2hDb2Rlc3EAfgAML1lt+HQAB2RvdWJsZXNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAuZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci51dGlscy5YT1JTaGlmdFJhbmRvbXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBeAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGVzcQB+AF4BdXEAfgBAAAAAAHBzcQB+AF4BdXEAfgBAAAAAAHBzcQB+AF4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBkdAAGUmFuZG9tc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB9dAAEdXRpbHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+c3EAfgBxdAAGT2JqZWN0c3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIRzcQB+AHF0AAxTZXJpYWxpemFibGVzcQB+AHVzcQB+AHh1cQB+AHsAAAADc3EAfgB9dAAEamF2YXNxAH4AfXQAAmlvcQB+AIRwcHNxAH4AQnEAfgBPcQB+AFFxAH4AU3EAfgBUcQB+AFZ+cQB+AFd0AAZNb2R1bGV1cQB+AFsAAAAAc3EAfgBeAXEAfgBmcHNxAH4AXgFzcQB+AGhzcQB+AF4BdXEAfgBAAAAAAHBzcQB+AF4BdXEAfgBAAAAAAHBzcQB+AF4BdXEAfgBvAAAAAHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAfZXUuc2NhcGVfcHJvamVjdC5iaXR3aXNlci51dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcQWRtaW5cZ2l0XENvZGVNYXRjaFxMaWJEZXRlY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJdHJ7UvQx0jgNIxbFEsN5ECuw7z
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDuKC5WAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDdoX1d0AAZub3RpZnlzcQB+AAzUStQedAAlYW5hbHlzaXNTcGVjaWZpY1BhcmFtZXRlcnNEZXNjcmlwdGlvbnNxAH4ADKOclu50AApjbGFzc0NvdW50c3EAfgAM2bG4s3QABWNvdW50c3EAfgAMQ+Pd0HQABHdhaXRzcQB+AAzGaqY1dAARQ291bnRTbWFsbENsYXNzZXNzcQB+AAyHL56AdAAXaGFuZGxlUGFyc2luZ0V4Y2VwdGlvbnNzcQB+AAyY41JsdAANJGFzSW5zdGFuY2VPZnNxAH4ADFd/hEJ0AAZlcXVhbHNzcQB+AAwQ9VrzdAAMYXNJbnN0YW5jZU9mc3EAfgAMFQbxhXQADHN5bmNocm9uaXplZHNxAH4ADEV4iAR0AA0kaXNJbnN0YW5jZU9mc3EAfgAMPH8TxXQACnByaW50VXNhZ2VzcQB+AAyf7KWEdAAEbWFpbnNxAH4ADLx1v7d0AAlub3RpZnlBbGxzcQB+AAxBqHv/dAAMaXNJbnN0YW5jZU9mc3EAfgAMMAY78nQACGFuYWx5c2lzc3EAfgAMY6XNPHQAH2NoZWNrQW5hbHlzaXNTcGVjaWZpY1BhcmFtZXRlcnNzcQB+AAySFF0XdAACPT1zcQB+AAxn5p8AdAAFY2xvbmVzcQB+AAysKRAzdAAMc2V0dXBQcm9qZWN0c3EAfgAMJvLw+nQACHRvU3RyaW5nc3EAfgAMGhFORXQAAiE9c3EAfgAMLL5YC3QACGdldENsYXNzc3EAfgAM/p5mD3QAAm5lc3EAfgAMjqSUPnQAAmVxc3EAfgAMDSUpXnQAAiMjc3EAfgAMnE1R73QACGZpbmFsaXplc3EAfgAMiV07BXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAIWV4dHJhY3QubWV0aG9kcy5Db3VudFNtYWxsQ2xhc3Nlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGkAcHNxAH4AbnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AHJzcQB+AGkAcHNxAH4AbnVxAH4ATAAAAABzcQB+AGkAcHNxAH4AbnVxAH4ATAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUnEAfgBbdXEAfgBcAAAAAHNxAH4AXgBxAH4AKXVxAH4AYQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AknVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AH94cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIZbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHFzcQB+AIV0AAVBcnJheXEAfgCLdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIV0AAZTdHJpbmdzcQB+AIlzcQB+AIx1cQB+AI8AAAADc3EAfgCRdAAEamF2YXNxAH4AkXQABGxhbmdxAH4AlnNxAH4AaQBwc3EAfgBudXEAfgCqAAAAA3NxAH4AhXQAEEFuYWx5c2lzRXhlY3V0b3JzcQB+AIlzcQB+AIx1cQB+AI8AAAAFc3EAfgCRdAADb3Jnc3EAfgCRdAAFb3BhbGpzcQB+AJF0AAJicnNxAH4AkXQACGFuYWx5c2VzcQB+AJZzcQB+AIV0AAZPYmplY3RxAH4ArnNxAH4AhXQAA0FueXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZXh0cmFjdHNxAH4Ay3QAD2V4dHJhY3QubWV0aG9kc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcQWRtaW5cZ2l0XENvZGVNYXRjaFxMaWJEZXRlY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIKz7rumoJXoiiE0OzPIOsQq7SvL
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAKI7JuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAASXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCqDstd0AAdhYXJQRnFuc3EAfgAMPw6hzHQABm5vdGlmeXNxAH4ADKULvxR0AARzaGExc3EAfgAMNfYsR3QAJWFuYWx5c2lzU3BlY2lmaWNQYXJhbWV0ZXJzRGVzY3JpcHRpb25zcQB+AAwnCu7WdAASZXh0cmFjdEludGVyZmFjZUlSc3EAfgAMjF14mHQACWJjb2RlUEZxbnNxAH4ADCW+06R0AARhYXJQc3EAfgAMaX/ZVnQAEmdldE1hdGNoaW5nTWV0aG9kc3NxAH4ADNpjc0R0AARjb25uc3EAfgAMdVDcNHQACGNsYXNzTG9jc3EAfgAMHEh5xnQAA3NhcnNxAH4ADOycCJl0AAR3YWl0c3EAfgAMx2dnqnQAF2hhbmRsZVBhcnNpbmdFeGNlcHRpb25zc3EAfgAMxVuMlHQADSRhc0luc3RhbmNlT2ZzcQB+AAwL+E2gdAATZ2V0SW5zdHJ1Y3Rpb25Db3VudHNxAH4ADMjEKlx0ABBleHRyYWN0QWJzdHJhY3Rzc3EAfgAMkJET43QAC21ldGhvZENvdW50c3EAfgAMKfGYDXQABmVxdWFsc3NxAH4ADAjLRcJ0AAhzaGExVGV4dHNxAH4ADLN0m7t0AApieXRlVG9TSEExc3EAfgAMb207HnQADGFzSW5zdGFuY2VPZnNxAH4ADEOFwMd0AARtc2lnc3EAfgAMQLqQeHQACnNoYTI1NlRleHRzcQB+AAzi3jjYdAAMc3luY2hyb25pemVkc3EAfgAMrwB0a3QABXNjb3Jlc3EAfgAMxWkDtHQAA3BrZ3NxAH4ADNAIPhV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMeKvKUHQADGdldE1ldGhvZExvQ3NxAH4ADBGULmN0AA9leHRyYWN0T3JpZ2luYWxzcQB+AAxLlKTJdAAGYmNvZGVQc3EAfgAM1Cks7nQACnByaW50VXNhZ2VzcQB+AAwj0onTdAAPcmVtb3ZlTW9kaWZpZXJzc3EAfgAMwwsY6nQAGmV4dHJhY3RNZXRob2RQYXJhbUxpYlR5cGVzc3EAfgAM1n5KynQABG1haW5zcQB+AAzjOsHUdAAJbWV0aG9kTGVuc3EAfgAMzrJiL3QACWZ1enp5U2FyUHNxAH4ADHkWjtl0AAhoYXNoVGV4dHNxAH4ADHx7qF10AAtvYmZ1c0NvbmZpZ3NxAH4ADLXX1YZ0AAlub3RpZnlBbGxzcQB+AAwFrv//dAADbmxyc3EAfgAM+amXaHQADWV4dHJhY3RUeXBlSVJzcQB+AAxO9oSGdAAMaXNJbnN0YW5jZU9mc3EAfgAMSl20CnQACmV4dHJhY3RObHJzcQB+AAyZ6nX7dAAWbWF0Y2hCZXN0UHJlY2lzZU1ldGhvZHNxAH4ADHnpHGB0AAY8aW5pdD5zcQB+AAyXGmt+dAAHcmVzdWx0c3NxAH4ADBYTiCl0AAhhbmFseXNpc3NxAH4ADCgLmF50AANmcW5zcQB+AAwyhWQGdAAEbmxyUHNxAH4ADH1SHkF0AB9jaGVja0FuYWx5c2lzU3BlY2lmaWNQYXJhbWV0ZXJzc3EAfgAMzowgN3QABHNhclBzcQB+AAwYpBDMdAACPT1zcQB+AAxkOjKvdAAXTUVUSE9EX0xFTkdUSF9USFJFU0hPTERzcQB+AAxZ5GvQdAAFY2xvbmVzcQB+AAycSHy6dAAMc2V0dXBQcm9qZWN0c3EAfgAMml7slXQAEWV4dHJhY3RQYXJhbVR5cGVzc3EAfgAM7qF+RXQABWJjb2Rlc3EAfgAMienvL3QACHRvU3RyaW5nc3EAfgAMlpEQzXQAEGNyZWF0ZU1ldGhvZERhdGFzcQB+AAzKkbFEdAAKTWV0aG9kRGF0YXNxAH4ADMF5VTV0AAIhPXNxAH4ADJ9VBjd0AAhnZXRDbGFzc3NxAH4ADFmrCmB0AANhYXJzcQB+AAxDxj+ddAAXZ2V0TWF0Y2hpbmdGdXp6eU1ldGhvZHNzcQB+AAwG4RXedAACbmVzcQB+AAwvutLYdAACZXFzcQB+AAyUdHEJdAACIyNzcQB+AAwu4LNRdAAIZmluYWxpemVzcQB+AAwt5HUwdAAIYmNvZGVTdHJzcQB+AAyRsKc8dAAIaGFzaENvZGVzcQB+AAxOTG3ddAAIZnV6enlTYXJzcQB+AAxtN1kddAAGbWl4ZWRQc3EAfgAM+zLljXQADVNIQTFFeHRyYWN0b3JzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAdZXh0cmFjdC5tZXRob2RzLlNIQTFFeHRyYWN0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDCeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDBAHBzcQB+AMZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AqUwACWluaGVyaXRlZHEAfgCpTAAHcGFyZW50c3EAfgCpeHEAfgDKc3EAfgDBAHBzcQB+AMZ1cQB+AKQAAAAAc3EAfgDBAHBzcQB+AMZ1cQB+AKQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AKpxAH4As3VxAH4AtAAAAABzcQB+ALYAcQB+AFF1cQB+ALkAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AyXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AOp1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgDXeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgC8dAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDeWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDJc3EAfgDddAAFQXJyYXlxAH4A43VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDddAAGU3RyaW5nc3EAfgDhc3EAfgDkdXEAfgDnAAAAA3NxAH4A6XQABGphdmFzcQB+AOl0AARsYW5ncQB+AO5zcQB+AMEAcHNxAH4AxnVxAH4BAgAAAANzcQB+AN10ABBBbmFseXNpc0V4ZWN1dG9yc3EAfgDhc3EAfgDkdXEAfgDnAAAABXNxAH4A6XQAA29yZ3NxAH4A6XQABW9wYWxqc3EAfgDpdAACYnJzcQB+AOl0AAhhbmFseXNlc3EAfgDuc3EAfgDddAAGT2JqZWN0cQB+AQZzcQB+AN10AANBbnlxAH4A43NxAH4ApnEAfgCzdXEAfgC0AAAAAHNxAH4AtgB0ABpleHRyYWN0Lm1ldGhvZHMuTWV0aG9kRGF0YXVxAH4AuQAAAAB+cQB+ALt0AAhDbGFzc0RlZnVxAH4AvwAAAABzcQB+AMEAcHNxAH4AxnEAfgDLc3EAfgDBAHBzcQB+AMZzcQB+AM5zcQB+AMEAcHNxAH4AxnVxAH4ApAAAAABzcQB+AMEAcHNxAH4AxnVxAH4ApAAAAABzcQB+AMEAcHNxAH4AxnVxAH4BAgAAAAJzcQB+AN1xAH4BHnNxAH4A4XNxAH4A5HVxAH4A5wAAAANzcQB+AOlxAH4BCnNxAH4A6XEAfgEMcQB+AO5zcQB+AN1xAH4BIHNxAH4A4XNxAH4A5HVxAH4A5wAAAAJzcQB+AOlxAH4A7HEAfgDudXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZXh0cmFjdHNxAH4BRHQAD2V4dHJhY3QubWV0aG9kc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAQzpcVXNlcnNcQWRtaW5cZ2l0XENvZGVNYXRjaFxMaWJEZXRlY3RcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOfrb+Valt3kDG/ZrVrgZHKBBdfg
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAt+LY4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKQg7bd0AAZub3RpZnlzcQB+AAwXpxZzdAAEd2FpdHNxAH4ADIObes90AA0kYXNJbnN0YW5jZU9mc3EAfgAMRFaSP3QABmVxdWFsc3NxAH4ADCk65M90AAxhc0luc3RhbmNlT2ZzcQB+AAz9cSLEdAAMc3luY2hyb25pemVkc3EAfgAMUT7EAXQADSRpc0luc3RhbmNlT2ZzcQB+AAwY74JEdAAJQ291bnRNYWluc3EAfgAMKQsCpHQABG1haW5zcQB+AAzfX+HUdAAJbm90aWZ5QWxsc3EAfgAMwxAgcXQADGlzSW5zdGFuY2VPZnNxAH4ADC2zzul0AAI9PXNxAH4ADJ1v1Yt0AAVjbG9uZXNxAH4ADPGcXNR0AAh0b1N0cmluZ3NxAH4ADALROUt0AAIhPXNxAH4ADPhOGG90AAhnZXRDbGFzc3NxAH4ADC3aFCB0AAJuZXNxAH4ADJJtntJ0AAJlcXNxAH4ADGLleod0AAIjI3NxAH4ADDnSusR0AAhmaW5hbGl6ZXNxAH4ADIV40TF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5tYWluLkNvdW50TWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFkAcHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGJzcQB+AFkAcHNxAH4AXnVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHNbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGFzcQB+AHJ0AAVBcnJheXEAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHJ0AAZTdHJpbmdzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+dAAEamF2YXNxAH4AfnQABGxhbmdxAH4Ag3NxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgCXAAAAAnNxAH4AcnQABk9iamVjdHEAfgCbc3EAfgBydAADQW55cQB+AHh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AARtYWluc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZzBQy03VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEBDOlxVc2Vyc1xBZG1pblxnaXRcQ29kZU1hdGNoXExpYkRldGVjdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZeU+V1wlDz/xhAIOzEd3ilWe/Dk=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAP6XxJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGyp78V0AAZub3RpZnlzcQB+AAwXKJ2TdAAIZW5qYXJpZnlzcQB+AAyU09jedAAEd2FpdHNxAH4ADGdsPGh0AA0kYXNJbnN0YW5jZU9mc3EAfgAM3cYxBnQABmVxdWFsc3NxAH4ADH6pH/p0AAxhc0luc3RhbmNlT2ZzcQB+AAy754r1dAAMc3luY2hyb25pemVkc3EAfgAMX7pUYXQADSRpc0luc3RhbmNlT2ZzcQB+AAwKF21fdAAUZmluZE9uZVdyaXRlU2FtZVBhdGhzcQB+AAw2OCy5dAAEbWFpbnNxAH4ADN+n3rh0AAlub3RpZnlBbGxzcQB+AAyF8/UfdAAMaXNJbnN0YW5jZU9mc3EAfgAMC5XrNHQAEkV4dHJhY3Rpb25FeGVjdXRlcnNxAH4ADL+1z010AAI9PXNxAH4ADN3UVqF0AAVjbG9uZXNxAH4ADEunGrN0AAh0b1N0cmluZ3NxAH4ADBKZT/t0AAIhPXNxAH4ADJskKFZ0AAhnZXRDbGFzc3NxAH4ADOuJib90AAJuZXNxAH4ADFTfHCh0AAJlcXNxAH4ADCXXHFp0AAIjI3NxAH4ADCeafmt0ABJmaW5kT25lV3JpdGVUb1BhdGhzcQB+AAzCtiYjdAAIZmluYWxpemVzcQB+AAySYYPkdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXbWFpbi5FeHRyYWN0aW9uRXhlY3V0ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZnNxAH4AXwF1cQB+AEIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEhxAH4AUXVxAH4AUgAAAABzcQB+AFQAcQB+ACF1cQB+AFcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBueHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBadAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3EAfgB0dAAFQXJyYXlxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB0dAAGU3RyaW5nc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABGphdmFzcQB+AIB0AARsYW5ncQB+AIVwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AmQAAAAJzcQB+AHR0AAZPYmplY3RxAH4AnXNxAH4AdHQAA0FueXEAfgB6cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AARtYWluc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZzBQy03VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEBDOlxVc2Vyc1xBZG1pblxnaXRcQ29kZU1hdGNoXExpYkRldGVjdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUVhCV1ui9DEw3sC57OdJWy/aAIhs=
+external apis:
+0 items
+source infos:
+12 items
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\BitwiseAnalyser.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\Entropy.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\FuzzyHash.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\LCS.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SimHash.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\SSDeep.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\StreamReader.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\java\eu\scape_project\bitwiser\utils\XORShiftRandom.java -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\CountSmallClasses.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\extract\methods\SHA1Extractor.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\CountMain.scala -> 
+AAAAAAAAAAA=
+C:\Users\Admin\git\CodeMatch\LibDetect\src\main\scala\main\ExtractionExecuter.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVzK2DT51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQEM6XFVzZXJzXEFkbWluXGdpdFxDb2RlTWF0Y2hcTGliRGV0ZWN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcwUMtN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQEM6XFVzZXJzXEFkbWluXGdpdFxDb2RlTWF0Y2hcTGliRGV0ZWN0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
