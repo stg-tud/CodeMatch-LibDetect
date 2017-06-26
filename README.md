@@ -3,11 +3,11 @@ LibDetect identifies libraries in Android apps (APK) on the class level and prov
 of the class under analysis and a reference class stored in LibDetect's database.
 
 ## Precondition
-install OpenSSL (https://www.openssl.org/)
-install enjarify (https://github.com/google/enjarify)
-install MySQL (https://www.mysql.com/de/downloads/)
-execute createDB.sql
-configure config.txt
+install OpenSSL (https://www.openssl.org/)<br>
+install enjarify (https://github.com/google/enjarify)<br>
+install MySQL (https://www.mysql.com/de/downloads/)<br>
+execute createDB.sql<br>
+configure config.txt<br>
 - set USER_NAME to the user who has access to the androidlib database described in createDB
 - set PASSWD to the password of the user who has access to the androidlib database described in createDB
 - set DB_URL to the url of the internal mysql connection of the androidlib database often it looks like this jdbc:mysql://localhost:3306/androidlib
