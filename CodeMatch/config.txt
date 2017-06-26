@@ -1,6 +1,6 @@
-USER_NAME=lib
-PASSWD=test
-DB_URL=jdbc:mysql://localhost:3306/androidlib
-OPENSSL_EXEC_CMD=cmd /c C:/OpenSSL-Win32/bin/openssl.exe
-OPENSSL_CONF_PATH=C:/OpenSSL-Win32/bin/openssl.cfg
-ENJARIFY_EXEC_CMD=cmd /c C:/Users/Admin/Parser/enjarify-master/enjarify
+USER_NAME=
+PASSWD=
+DB_URL=
+OPENSSL_EXEC_CMD=
+OPENSSL_CONF_PATH=
+ENJARIFY_EXEC_CMD=
