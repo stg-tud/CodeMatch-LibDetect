@@ -98,23 +98,10 @@ object LibDetect extends AnalysisExecutor {
 
       if (theProject.allProjectClassFiles.nonEmpty) {
 
-        var mainPkgClasses = theProject.allProjectClassFiles.filter(cl => cl.fqn.startsWith(mainPkg))
-          .map(cl => cl.thisType).to[mutable.HashSet]
-        var queue: mutable.Queue[ObjectType] = mainPkgClasses.to[mutable.Queue]
-        while (queue.nonEmpty) {
-          val obj = queue.dequeue()
-          for (obj2 <- directUsageTypes(obj, theProject)) {
-            if (!mainPkgClasses.contains(obj)) {
-              mainPkgClasses += obj2
-              queue.enqueue(obj2)
-            }
-          }
-        }
-
         for (pkg <- theProject.projectPackages) {
           var uniqClazzes = Set.empty[String]
           var globalPkg = Map.empty[String, Long]
-          for (cf <- theProject.allProjectClassFiles.filter { f => f.thisType.packageName == pkg && !mainPkgClasses.contains(f.thisType) }) {
+          for (cf <- theProject.allProjectClassFiles.filter { f => f.thisType.packageName == pkg }) {
             var mLen: Long = 0
             var set = Set.empty[MethodData]
             var candidates = Map.empty[String, (Long, Set[String])]
