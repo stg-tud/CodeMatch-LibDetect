@@ -24,6 +24,10 @@ LibDetectDatabase.txt is structured in the following way.
 - Files which were downloaded from a github search have a github prefix.
 - Files which were downloaded via link have a direct link to the source.
 
+After collecting all JAR files, you need to create a file with all JAR file paths and execute LibDetectStandAloneExecutor with the
+following arguments: write <path/to/list of JAR files>. 
+The second argument should be the path to the previous created list of JAR files.
+
 # CodeMatch
 CodeMatch extracts libraries, checks the size, checks the author, checks if generated code is used, 
 and compares the similarity score of apps.
