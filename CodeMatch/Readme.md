@@ -6,5 +6,5 @@ If find such a package in an APK you can extract and use it for library detectio
 All lines in LibDetectionDatabase.txt which contain a semicolon need to be split by ';'.
 The first column need to be downloaded and unzipped so that the path after the semicolon can be integrated into the database.
 
-All rights for the JARs belong to the websites of the links. 
+All rights of the JARs reserved for their owning websites, we are not responsible for any of their contents.
 So if you want to use the JARs you need to follow the JARs' license rules.
